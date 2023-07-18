@@ -50,6 +50,8 @@ https://www.canlii.org/: Provides access to Canadian legal documents, including 
 http://www.worldlii.org/: a free and independent global legal research resource, aggregating legal materials from various countries and regions.
 
 
+## Thanks to:
+https://github.com/CSHaitao/Awesome-LegalAI-Resources
 
 
 
