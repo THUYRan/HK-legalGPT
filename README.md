@@ -1,6 +1,6 @@
 # HK-legalGPT
 
-## Dataset in open source:
+## Dataset:
 
 ### HK:
 Cases in HKLII (2019-2023)
@@ -33,6 +33,24 @@ Legal Linking: This paper describes a dataset and baseline systems for linking p
 Multi-LexSum: We introduce Multi-LexSum, a collection of 9,280 expert-authored summaries drawn from ongoing CRLC writing.  https://multilexsum.github.io/
 
 Extracting Contract Elements(England): http://nlp.cs.aueb.gr/pubs/icail2017.pdf
+
+VerbCL: This paper presents a new dataset that consists of the citation graph of court opinions, which cite previously published court opinions in support of their arguments.  https://arxiv.org/abs/2108.10120
+
+MultiLegalSBD: Sentence Boundary Detection (SBD) is one of the foundational building blocks of Natural Language Processing (NLP), with incorrectly split sentences heavily influencing the output quality of downstream tasks.  https://huggingface.co/datasets/rcds/MultiLegalSBD
+
+### Open Source Website:
+https://www.courtlistener.com/
+
+https://www.bailii.org/: provides access to legal materials from the United Kingdom and Ireland, including cases, legislation, and legal journals.
+
+https://www.austlii.edu.au/: Offers access to legal materials from Australia and neighboring countries, including cases, legislation, treaties, and law reform reports.
+
+https://www.canlii.org/: Provides access to Canadian legal documents, including cases, statutes, regulations, and court rules.
+
+http://www.worldlii.org/: a free and independent global legal research resource, aggregating legal materials from various countries and regions.
+
+
+
 
 
 
