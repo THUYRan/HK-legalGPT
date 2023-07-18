@@ -51,7 +51,7 @@ http://www.worldlii.org/: a free and independent global legal research resource,
 
 
 ## Thanks to:
-由衷感谢Awesome-LegalAI-Resources开发者https://github.com/CSHaitao/对该项目的支持。
+由衷感谢Awesome-LegalAI-Resources开发者https://github.com/CSHaitao/  对该项目的支持。
 
 
 
