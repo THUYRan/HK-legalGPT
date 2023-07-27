@@ -49,6 +49,9 @@ https://www.canlii.org/: Provides access to Canadian legal documents, including 
 
 http://www.worldlii.org/: a free and independent global legal research resource, aggregating legal materials from various countries and regions.
 
+### Data for learning to ask:
+From CLIC data:
+Download from this link(https://cloud.tsinghua.edu.cn/f/0e7de213681540dc9232/):
 
 ## Thanks to:
 由衷感谢Awesome-LegalAI-Resources开发者https://github.com/CSHaitao/  对该项目的支持。
