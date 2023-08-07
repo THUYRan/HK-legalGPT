@@ -15,7 +15,7 @@ Written Submission in the Court of Final Appeal (Judgements, Appellant submissio
 CLIC Data
 
 
-Conversational Test  https://www.pcea.com.hk/download
+Conversion Test  https://www.pcea.com.hk/download
 
 ### General Corpus:
 MultiLegalPile: A 698GB Multilingual Legal Corpus https://arxiv.org/abs/2306.02069v2
