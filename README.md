@@ -1,5 +1,19 @@
 # HK-legalGPT
 
+## Papers:
+
+[1] Legal Prompt Engineering for Multilingual Legal Judgement Prediction
+https://arxiv.org/abs/2212.02199
+
+[2] Legal Prompting: Teaching a Language Model to Think Like a Lawyer
+https://arxiv.org/abs/2212.01326
+
+[3] Explaining Legal Concepts with Augmented Large Language Models (GPT-4) 
+https://arxiv.org/abs/2306.09525
+
+[4] Lawyer Llama: a technical report
+https://arxiv.org/abs/2305.15062
+
 ## Dataset:
 
 ### HK:
